@@ -25,7 +25,7 @@ const Home = () => {
         <div className="mt-14 ml-48">
           <img
             className=" "
-            width={250}
+            width={350}
             height={200}
             src={rolex}
             alt="Rolex watch"
